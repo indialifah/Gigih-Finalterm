@@ -3,9 +3,9 @@
 This project is a Tokopedia Play Replication Web for Final Term on Generasi Gigih 3.0 ✨
 
 It use some tools such as,
-*[ExpressJS](https://expressjs.com/)
-*[Mongoose](https://mongoosejs.com/) (For MongoDB Connectors)
-*[ReactJS by Vite](https://vitejs.dev/guide/)
+* [ExpressJS](https://expressjs.com/)
+* [Mongoose](https://mongoosejs.com/) (For MongoDB Connectors)
+* [ReactJS by Vite](https://vitejs.dev/guide/)
 
 ## Database Structure
 This project using the document-based database, yup it's MongoDB!
